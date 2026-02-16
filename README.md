@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnupriyapatra&label=Profile%20views&color=0e75b6&style=flat" alt="bishnupriyapatra" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently looking for a job 
 
 - ⚡ Fun fact **i am funny**
 
