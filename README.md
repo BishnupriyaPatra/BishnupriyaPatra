@@ -1,4 +1,3 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
 
 
